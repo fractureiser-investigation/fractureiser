@@ -36,7 +36,10 @@ Vào mùng 8 tháng 6 năm 2023, Đội Giảm Thiểu vi rút fractureiser họ
 
 ## Thông tin bổ sung
 Nếu bạn có tài liệu có liên quan đến vi rút fractureiser, vui lòng đăng tải nó lên [https://wormhole.app](https://wormhole.app) và gửi email chứa đường liên kết với tài liệu đấy đến [fractureiser@unascribed.com](mailto:fractureiser@unascribed.com) – tất cả những thứ gửi đến email đấy sẽ được chia sẻ với tất cả đội. Nếu bạn cần liên lạc vì một lý do khác, vui lòng gửi email đến [jaskarth4@gmail.com](mailto:jaskarth4@gmail.com).
+
 Nếu bạn sao chép tư liệu hoặc một phần tư liệu ở đây đến chỗ khác, hãy để một đường liên kết đến [GitHub này](https://github.com/fractureiser-investigation/fractureiser/) ở đầu trang của bạn, để mọi người có thể đọc các cập nhật liên quan đến vi rút này, và để mọi người có thể liên lạc được với chúng tôi.
+
 Kênh nói chuyện chính thức duy nhất công khai và *cũng được tạo ra bởi những người điều tra vi rút này* là [#cfmalware trên EsperNet IRC](https://webchat.esper.net/?channels=cfmalware). **Nếu bạn tham gia vào bất cứ kênh IRC nào, IP của bàn sẽ bị lộ ra.**
-Hãy vui lòng không hỏi về mẫu vi rút. Nếu bạn đã có kinh nghiệm về việc này, rất tốt! Nhưng chúng tôi không thể xác minh được điều này mà không dùng rất nhiều thời gian của chúng tôi. Việc chia sẻ mẫu vi rút rất nguy hiểm, kể cả cho những người đã biết làm gì.
+
+**Hãy vui lòng không hỏi về mẫu vi rút.** Nếu bạn đã có kinh nghiệm về việc này, rất tốt! Nhưng chúng tôi không thể xác minh được điều này mà không dùng rất nhiều thời gian của chúng tôi. Việc chia sẻ mẫu vi rút rất nguy hiểm, kể cả cho những người đã biết làm gì.
 -> Từ [Đội Giảm Thiểu vi rút fractureiser](/docs/credits.md). 
