@@ -20,16 +20,17 @@ Chúng tôi đặt tên vi rút này là fractureiser vì đấy là tên của 
 
 Nếu bạn chỉ là người chơi mod thôi và không lập trình ra mod, cái trang ở trên là thứ duy nhất bạn cần. Trang đấy có thông tin đơn giản về hiệu ứng của vi rút này, những bước cần làm để kiểm tra nếu có vi rút và các bước để xóa bỏ vi rút fractureiser, với một phần chứa những câu hỏi thưởng gặp. (Chỉ có ngôn ngữ Tiếng Anh)
 
-Người nào muốn tìm hiểu thêm có thể xem: (Tất cả các tài liệu sau chỉ có trong Tiếng Anh, nhưng đang được thông dịch sang các ngôn ngữ khác)
-•	Thời gian các sự kiện xẩy ra.
-•	Phân tích kỹ thuật.
+Người nào muốn tìm hiểu thêm có thể xem: (Tất cả các tài liệu sau chỉ có trong Tiếng Anh, nhưng đang được thông dịch sang Tiếng Việt)
+•	[Thời gian các sự kiện xẩy ra.](/docs/timeline.md)
+•	[Phân tích kỹ thuật.](/doc/tech.md)
 
 ### Tôi đã chưa bao giờ chơi với mod nào về Minecraft.
 Bạn đã không bị ảnh hưởng về sự kiện này.
 
 ## Tình trạng thái điều tra vi rút
 Chúng tôi đã có một ý tưởng tốt về các cách fractureiser chạy, từ giai đoạn 0 đến 3. Chúng tôi vẫn không biết một số thứ, nhưng các máy chủ dùng để tấn công đã bị tắt và chúng tôi hiện tại biêt rằng các nhiễm trùng mới không thể xảy ra được. Nhiễm trùng cũ có thể vẫn đang hoạt động.
-Tư liệu cho người dùng đã gần hoàn thành. Chúng tôi vẫn đang hợp tác với thành viên trong cộng đồng để phân dịch sang các ngôn ngữ khác (như Tiếng Việt!) để tất cả mọi người có thể hiểu được về vi rút này.
+Tư liệu cho người dùng đã gần hoàn thành. Chúng tôi vẫn đang hợp tác với thành viên trong cộng đồng để phiên dịch sang các ngôn ngữ khác (như Tiếng Việt!) để tất cả mọi người có thể hiểu được về vi rút này.
+Hiện tại, chỉ có tài liệu này đã được dịch sang Tiếng Việt, nhưng các tài liệu khác xẽ được dịch sang vào thời điểm trong tương lai.
 
 ## Cuộc họp theo dõi
 Vào mùng 8 tháng 6 năm 2023, Đội Giảm Thiểu vi rút fractureiser họp với các thành viên phổ biến trong cộng đồng mod của Minecraft để nói về cách phòng chống và giải pháp nếu tình huống như thế này xảy ra một lần nữa. Hãy xem trang này để xem chương trình của cuộc họp đấy. (Chỉ có Tiếng Anh).
