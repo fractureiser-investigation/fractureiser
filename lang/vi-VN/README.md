@@ -7,7 +7,7 @@
 [English version](/README.md); [简体中文版本见此](/lang/zh-CN/); [Polska wersja](/lang/pl-PL)
 
 ## Cái gì?
-Fractureiser là một [vi rút](https://en.wikipedia.org/wiki/Computer_virus) đã thấy trong một số dự án Minecraft. Vi rút này đã ở trong một số mod, trong những đó một số cái đã cho vào trong một số mod rất là phổ biến trong cộng đồng.
+`Fractureiser` là một [vi rút](https://en.wikipedia.org/wiki/Computer_virus) đã thấy trong một số dự án Minecraft. Vi rút này đã ở trong một số mod, trong những đó một số cái đã cho vào trong một số mod rất là phổ biến trong cộng đồng.
 
 Vi rút fractureriser có thể **RẤT NGUY HIỂM** nếu để lâu không kiểm tra. Vui lòng đọc tiếp tài liệu này để có thông tin cần thiết để bảo vệ bạn và máy tính của bạn
 
