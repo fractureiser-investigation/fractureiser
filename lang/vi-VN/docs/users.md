@@ -112,7 +112,7 @@ Nếu không nhận được thông báo, bạn có thể kiểm tra bằng các
 #### Hướng dẫn cho người dùng Windows
 
 * Mở màn hình Start với nút Windows, và đánh vào `%localappdata%` - nó sẽ nhìn như sau:
-![Kết quả khi tìm kiếm từ ở trên](/lang/docs/media/localappdata.png)
+![Kết quả khi tìm kiếm từ ở trên](/media/localappdata.png)
 
 * Inside the Local appdata folder, you must ensure that your Explorer is set to view both 
 `Hidden Items`, and `Protected Operating System Files`.
